@@ -6,8 +6,7 @@ This was a collaborative project made by 4 members Executed in 5 days.
 
 
   Deploy Link -
-  Vercel: https://travelocity-clone-git-main-damanjot6767.vercel.app/
-  Netlify: https://thriving-hamster-345ef4.netlify.app/
+  Netlify: https://silly-queijadas-a569ac.netlify.app/
 
 
 ---
