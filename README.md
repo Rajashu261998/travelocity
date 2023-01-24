@@ -14,11 +14,8 @@ This was a collaborative project made by 4 members Executed in 5 days.
 ## Tech Stack Used : -
 
 - #### Languages
-  - `React JS`
-  - `Redux`
   - `HTML`
   - `CSS`
-  - `Material UI`
   - `JavaScript `
   - `Local Storage`
   
